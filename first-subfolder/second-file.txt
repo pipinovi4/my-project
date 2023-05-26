@@ -1,1 +1,3 @@
 Some text
+
+Changed made in second-file.txt
